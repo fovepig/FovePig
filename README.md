@@ -43,6 +43,12 @@
   </a>
 </p>
 
+### 💾WEB前端
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react" />
+  </a>
+</p>
 ---
 
 ## ⭐ 特色项目 (Featured Projects)
@@ -50,6 +56,7 @@
 | 项目名称 | 简介 | 技术标签 |
 | :--- | :--- | :--- |
 | [**findUriInjs-AI**](https://github.com/fovepig/findUriInjs) | **[核心]** 基于 AI 的 Burp 嗅探增强版，智能解析 JS/HTML 敏感接口。 | `AI` `Java` `Burp` |
+| [**WebLogin**](https://github.com/fovepig/weblogin) | 一个基于react nodejs的网页登录页面。 | `react` `nodejs` |
 
 ---
 
