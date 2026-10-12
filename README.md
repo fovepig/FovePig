@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:03045e&height=210&section=header&text=Returnx_X&fontSize=72&fontColor=e0fbfc&animation=fadeIn&fontAlignY=35&desc=AI%20%C3%97%20Security%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:03045e&height=210&section=header&text=Returnx_X&fontSize=72&fontColor=e0fbfc&animation=fadeIn&fontAlignY=35&desc=Security%20%C3%97%20Full-Stack%20Dev&descAlignY=55&descSize=22" />
 
 <a href="https://github.com/fovepig">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00B4D8&center=true&vCenter=true&width=620&lines=AI-Powered+Security+Tooling;RAG+%C3%97+Cybersecurity;Full-Stack+Developer;Keep+smiling+while+shipping+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00B4D8&center=true&vCenter=true&width=620&lines=Security+Tooling;Full-Stack+Developer;Build.+Break.+Fix.+Repeat.;Keep+smiling+while+shipping+code" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## 🙋 关于我
 
-> **玩一下，玩一下。**
+> **玩一下，玩一下。** —— 顺便把 AI 塞进安全工具里。
 
 - 🔭 **最近在折腾** — 把 LLM 接进渗透测试工具链：RAG 漏洞知识库 · AI 流量嗅探 · 自动化发包
 - 🛡️ **安全方向** — Burp Suite 插件开发 (Java) · Yakit 自动化 · Exploit-DB / NVD 情报检索
@@ -120,6 +120,8 @@
 
 ---
 
+## 🐍 贪吃蛇吃 Commit
+
 <div align="center">
 
 <picture>
@@ -142,7 +144,7 @@
 
 <br/><br/>
 
-<i>"seize the day."</i>
+<i>"Beyond the code, into the security."</i>
 
 </div>
 
