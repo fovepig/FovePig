@@ -1,73 +1,133 @@
-# 🛡️ Hi there, I'm fovepig 
+<!-- ═══════════════ HEADER ═══════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Security%20%26%20Development&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Focus%20on%20AI-Powered%20Security%20Tools&descAlignY=62&descSize=20" />
-</p>
+<div align="center">
 
-## 🚀 关于我 (About Me)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,100:03045e&height=210&section=header&text=Returnx_X&fontSize=72&fontColor=e0fbfc&animation=fadeIn&fontAlignY=35&desc=AI%20%C3%97%20Security%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=22" />
 
-- 🔍 **研究领域**：如何提升人类综合幸福指数。
-- 🤖 **核心成果**：每天都让自己笑嘻嘻doge。
-- 💻 **全栈能力**：擅长 Java (Spring Boot)、Python、JavaScript，追求极简且高效的代码。
-- 📺 **分享动态**：暂无。
-- 📧 **联系方式**：[admin@dbtemper.com](mailto:admin@dbtemper.com)
+<a href="https://github.com/fovepig">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00B4D8&center=true&vCenter=true&width=620&lines=AI-Powered+Security+Tooling;RAG+%C3%97+Cybersecurity;Full-Stack+Developer;Keep+smiling+while+shipping+code" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 📊 战力展示 (GitHub Stats)
+## 🙋 关于我
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fovepig&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovepig&layout=compact&theme=radical&hide=html,css" />
-</p>
+> **玩一下，玩一下。** —— 顺便把 AI 塞进安全工具里。
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fovepig&theme=dracula&area=true" />
-</p>
+- 🔭 **最近在折腾** — 把 LLM 接进渗透测试工具链：RAG 漏洞知识库 · AI 流量嗅探 · 自动化发包
+- 🛡️ **安全方向** — Burp Suite 插件开发 (Java) · Yakit 自动化 · Exploit-DB / NVD 情报检索
+- 💻 **全栈能力** — Java (Spring Boot) · Python · TypeScript · PHP · Docker 部署运维
+- 🎯 **小目标** — 提升人类综合幸福指数（先让自己笑嘻嘻 doge）
+- 📮 **联系方式** — [admin@dbtemper.com](mailto:admin@dbtemper.com)
 
 ---
 
-## 🛠️ 技术图谱 (Tech Stack)
+## 🛠️ 技术栈
 
-### 🛡️ 安全工具与语言
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,spring,maven,git" />
-  </a>
-</p>
+<div align="center">
 
-### 🌐 后端与运维
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql,redis,nginx,docker,linux" />
-  </a>
-</p>
+**语言 · Languages**
 
-### 💾WEB前端
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react" />
-  </a>
-</p>
----
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,php,bash" />
 
-## ⭐ 特色项目 (Featured Projects)
+**后端 · Backend**
 
-| 项目名称 | 简介 | 技术标签 |
-| :--- | :--- | :--- |
-| [**findUriInjs-AI**](https://github.com/fovepig/findUriInjs) | 基于 AI 的 Burp 嗅探增强版，智能解析 JS/HTML 敏感接口。 | `AI` `Java` `Burp` |
-| [**WebLogin**](https://github.com/fovepig/weblogin) | 一个基于react nodejs的网页登录页面。 | `react` `nodejs` |
+<img src="https://skillicons.dev/icons?i=spring,maven,nodejs,mysql,redis" />
+
+**运维 · DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,idea" />
+
+</div>
 
 ---
 
-## 🌐 社交矩阵
-<p align="left">
-  <a href="https://github.com/fovepig">
-    <img src="https://img.shields.io/badge/GitHub-fovepig-181717?logo=github&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=fovepig&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" />
-</p>
+## ⭐ 精选项目
 
-<p align="center">
-  <i>"Beyond the code, into the security."</i>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/exploitNVD">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=exploitNVD&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/QQmusic-API">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=QQmusic-API&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/yakit-headless">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=yakit-headless&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/FindURLinJS">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=FindURLinJS&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/astrbot_pulgin_60sapi">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=astrbot_pulgin_60sapi&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/fovepig/WebLogin">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=WebLogin&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 数据面板
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fovepig&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=2a4a6b" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovepig&layout=compact&langs_count=8&hide=html,css&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=2a4a6b" />
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=fovepig&background=0d1117&border=2a4a6b&stroke=2a4a6b&ring=00b4d8&fire=00b4d8&currStreakNum=c9d1d9&currStreakLabel=00b4d8&sideNums=c9d1d9&sideLabels=00b4d8&dates=8b949e" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fovepig&bg_color=0d1117&color=00b4d8&line=0096c7&point=c9d1d9&area=true&area_color=0096c7&hide_border=true" />
+
+</div>
+
+---
+
+## 🔗 开源生态
+
+- 🔌 [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ) — 基于 NTQQ 的现代化协议端框架
+- 📺 [**Piik**](https://github.com/TNTcraftHIM/Piik) — 开源的私密屏幕共享，和朋友一起看电影打游戏
+- 📝 [**blogs**](https://github.com/chenflux/blogs) — 轻量博客系统
+
+---
+
+## 🌐 找到我
+
+<div align="center">
+
+<a href="https://github.com/fovepig"><img src="https://img.shields.io/badge/GitHub-fovepig-181717?logo=github&style=for-the-badge" /></a>
+<a href="mailto:admin@dbtemper.com"><img src="https://img.shields.io/badge/Email-admin@dbtemper.com-00b4d8?logo=maildotru&logoColor=white&style=for-the-badge" /></a>
+<img src="https://komarev.com/ghpvc/?username=fovepig&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" />
+
+<br/><br/>
+
+<i>"Beyond the code, into the security."</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:0096c7&height=120&section=footer" />
