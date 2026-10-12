@@ -120,8 +120,6 @@
 
 ---
 
-## 🐍 贪吃蛇吃 Commit
-
 <div align="center">
 
 <picture>
