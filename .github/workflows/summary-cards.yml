@@ -1,0 +1,33 @@
+name: Profile Summary Cards
+
+on:
+  # run automatically every 24 hours (22:00 UTC = 06:00 UTC+8)
+  schedule:
+    - cron: "0 22 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # built-in token is enough for public data (needs the permissions block above)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # branch the generated cards are pushed to
+          BRANCH_NAME: "main"
+          # Beijing time
+          UTC_OFFSET: 8
+          EXCLUDE: "html,css"
+          AUTO_PUSH: true
+          THEME: "tokyonight"
+          ANIMATION: "load"
