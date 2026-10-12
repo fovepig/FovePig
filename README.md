@@ -50,36 +50,36 @@
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/exploitNVD">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=exploitNVD&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=exploitNVD&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/QQmusic-API">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=QQmusic-API&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=QQmusic-API&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/yakit-headless">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=yakit-headless&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=yakit-headless&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/FindURLinJS">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=FindURLinJS&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=FindURLinJS&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/astrbot_pulgin_60sapi">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=astrbot_pulgin_60sapi&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=astrbot_pulgin_60sapi&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/fovepig/WebLogin">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=WebLogin&theme=tokyonight&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fovepig&repo=WebLogin&theme=tokyonight&rank_icon=github&hide_border=true" />
   </a>
 </td>
 </tr>
@@ -93,26 +93,44 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fovepig&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=2a4a6b" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fovepig&layout=compact&langs_count=8&hide=html,css&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=2a4a6b" />
+<img width="100%" src="https://raw.githubusercontent.com/fovepig/FovePig/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=fovepig&background=0d1117&border=2a4a6b&stroke=2a4a6b&ring=00b4d8&fire=00b4d8&currStreakNum=c9d1d9&currStreakLabel=00b4d8&sideNums=c9d1d9&sideLabels=00b4d8&dates=8b949e" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fovepig&bg_color=0d1117&color=00b4d8&line=0096c7&point=c9d1d9&area=true&area_color=0096c7&hide_border=true" />
+<table>
+<tr>
+<td width="50%" align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/fovepig/FovePig/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+</td>
+<td width="50%" align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/fovepig/FovePig/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/fovepig/FovePig/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</td>
+<td width="50%" align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/fovepig/FovePig/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔗 开源生态
+## 🐍 贪吃蛇吃 Commit
 
-- 🔌 [**NapCatQQ**](https://github.com/NapNeko/NapCatQQ) — 基于 NTQQ 的现代化协议端框架
-- 📺 [**Piik**](https://github.com/TNTcraftHIM/Piik) — 开源的私密屏幕共享，和朋友一起看电影打游戏
-- 📝 [**blogs**](https://github.com/chenflux/blogs) — 轻量博客系统
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fovepig/FovePig/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fovepig/FovePig/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fovepig/FovePig/output/snake.svg" />
+</picture>
+
+</div>
 
 ---
 
